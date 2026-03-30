@@ -1,2 +1,1 @@
-# autoeit-scoring
-GSoC 2026 — AutoEIT Automated Scoring System | HumanAI
+📢 GSoC 2026 Update: My formal proposal for the AutoEIT: Automated Scoring System has been submitted to HumanAI! This project aims to bridge the gap between manual human scoring and automated LLM evaluation. Read the full summary here.
